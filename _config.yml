@@ -8,7 +8,7 @@ permalink:           pretty
 title:               Girke Lab
 tagline:             'Research and Teaching Site'
 description:         'Thomas Girke'
-url:                 http://tgirke.github.io
+url:                 http://ideeaslab.github.io
 baseurl:             ''
 # The following line is required for Jekyll >=3 support
 gems:                [jekyll-paginate, jekyll-gist]
